@@ -23,11 +23,11 @@ Esta es la solucion al reto [Recipe page challenge on Frontend Mentor](https://w
 ![Mobile/Movil](design/mobile-design.png)
 
 ### Links
+
+- Solution URL: [URL](https://github.com/chefoce/recipe-page-main)
+- Live Site URL: [URL](https://chefoce.github.io/recipe-page-main/)
+
 /*Pendiente*/
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Carlos Oceguera](https://www.your-site.com)
